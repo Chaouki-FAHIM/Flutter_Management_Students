@@ -1,0 +1,4 @@
+enum TypePersonne {
+  ETUDIANT,
+  PROFESSEUR,
+}

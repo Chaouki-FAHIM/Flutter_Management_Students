@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139603027223",
+    "project_id": "managment-homework",
+    "storage_bucket": "managment-homework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139603027223:android:5f142c0de27fa8404c4352",
+        "android_client_info": {
+          "package_name": "com.example.management_homework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_-Cc5tkiz_pbNyXBIwQtRDGyOxhJ6rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
